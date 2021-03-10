@@ -1,0 +1,1 @@
+# firmware-config-comera-xiaomi
